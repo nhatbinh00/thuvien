@@ -1,0 +1,155 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/layout.cshtml";
+}
+
+@*<div class="d-flex ml-4" style="position:absolute; top:250px;">
+        <a class="btn btn-info mr-3" style="color:white;" href="~/Sach/ListIndex">List Books</a>
+        <a class="btn btn-warning" style="color:white ;" href="~/Sach/Create">Add</a>
+    </div>*@
+<header class="container-fluid">
+    <div class="" style="position:absolute; margin-top:300px; left:25%; top:10%;width:50%;">
+        <h1 class="text-white text-center mb-5"><span class="display-2">W</span>elcome to Library.com</h1>
+        <form method="get" action="~/Home/Search"  class="d-flex">
+            <input name="searchValue" type="text" class="form-control mr-2"  placeholder="Search your books">
+            <button type="submit" class="btn btn-primary"><i class="fas fa-search"></i></button>
+        </form>
+    </div>
+</header>
+<section class="mb-4 py-5"  style=" transform: translateY(-70px); ">
+    <div class="container-fluid pt-2">
+        <div id="accordion">
+            <h2 class="text-dark text-center">New Category</h2>
+            <div style="width:250px; height:3px; background-color:black;" class="mx-auto  mb-4"></div>
+            <button style="max-width:900px;" data-toggle="collapse" data-target="#collapse1" class="mx-auto text-center btn btn-secondary btn-block p-2 text-white font-weight-bold mb-2">
+                Sách Giáo Khoa
+            </button>
+            <div id="collapse1" class="collapse show mx-auto" data-parent="#accordion" style="max-width:900px;">
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+            </div>
+
+            <button style="max-width :900px;" data-toggle="collapse" data-target="#collapse2" class="mx-auto text-center btn btn-secondary btn-block p-2 text-white font-weight-bold mb-2">
+                Giáo Trình
+            </button>
+            <div id="collapse2" class="collapse mx-auto" data-parent="#accordion" style="max-width:900px;">
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+            </div>
+
+            <button style="max-width:900px;" data-toggle="collapse" data-target="#collapse3" class="mx-auto text-center btn btn-secondary btn-block p-2 text-white font-weight-bold mb-2">
+                Sách Thiếu Nhi
+            </button>
+            <div id="collapse3" class="collapse mx-auto" data-parent="#accordion" style="max-width :900px;">
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+            </div>
+
+            <button style="max-width:900px;" data-toggle="collapse" data-target="#collapse4" class="mx-auto text-center btn btn-secondary btn-block p-2 text-white font-weight-bold mb-2">
+                Tiểu Thuyết Nước Ngoài
+            </button>
+            <div id="collapse4" class="collapse mx-auto" data-parent="#accordion" style="max-width :900px;">
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+            </div>
+
+            <button style="max-width:900px;" data-toggle="collapse" data-target="#collapse5" class="mx-auto text-center btn btn-secondary btn-block p-2 text-white font-weight-bold mb-2">
+                Sách Học Ngoại Ngữ
+            </button>
+            <div id="collapse5" class="collapse mx-auto" data-parent="#accordion" style="max-width:900px;">
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+            </div>
+        </div>
+    </div>
+</section>
+<section class="why" style="background:url('../../Content/img/notebook-731212_1920.jpg') center/cover;height:70vh;transform: translateY(-70px);">
+    <br />
+    <div class="mt-4 pl-2" style="border-left: 8px solid #43dd24; margin-left:50px;">
+        <h1 >Why chose Library dot com ?</h1>
+        <p>Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s</p>
+    </div>
+    <div style="max-width:880px;">
+        <div class="d-flex p-5" style="float:left;">
+            <i class="fas fa-school fa-3x mr-3"  style="padding:15px; border-radius:50%;"></i>
+            <div class="pt-3" style="font-size:30px;font-weight:bold;">Learn more and more</div>
+        </div>
+        <div class="d-flex p-5" style="float:left;">
+            <i class="fas fa-clock fa-3x mr-3"  style="; padding:15px; border-radius:50%;"></i>
+            <div class="pt-3" style="font-size:30px;font-weight:bold;">Save Time</div>
+        </div>
+        <div class="d-flex p-5 mr-5" style="float:left;">
+            <i class="fas fa-tags fa-3x mr-3"  style=" padding:15px; border-radius:50%;"></i>
+            <div class="pt-3" style="font-size:30px;font-weight:bold;">Hot Sale Off</div>
+        </div>
+        <div class="d-flex p-5" style="float:left;">
+            <i class="fas fa-book fa-3x mr-3"  style=" padding:15px; border-radius:50%;"></i>
+            <div class="pt-3" style="font-size:30px;font-weight:bold;">Diverse documents</div>
+        </div>
+    </div>
+</section>
+
+<section class="contactUs">
+    <div class="container">
+        <div class="row">
+            <div class="contact col-xl-6 col-lg-6 col-md-12">
+                <h1 style="margin-bottom:60px;font-size:50px;">Our Contacts</h1>
+                <div style="margin-bottom:50px;">
+                    <h2 style="font-weight:bold;">Address</h2>
+                    <p>350 5th Ave, New York, NY 10118, USA</p>
+                </div>
+                <div style="margin-bottom:50px;">
+                    <h2 style="font-weight:bold;">Phone</h2>
+                    <p>+1 (0) 000 0000 001</p>
+                </div>
+                <div>
+                    <h2 style="font-weight:bold;">Email</h2>
+                    <p>youremail@mail.com</p>
+                </div>
+            </div>
+            <div class="map col-xl-6 col-lg-6 col-md-12">
+                <div class="google-map"><iframe frameborder="0" style="border:0;height:450px;width:650px;" src="https://www.google.com/maps/embed/v1/place?key=AIzaSyCy9r70T3NYf3PhvVflTo0_zdif2_IoIYs&amp;q=place_id:ChIJn6wOs6lZwokRLKy1iqRcoKw" allowfullscreen=""></iframe></div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="footer bg-dark text-white py-5">
+    <div class="container">
+        <div class="row">
+            <div class="col-xl-3">
+                <i class="fas fa-book-reader fa-3x text-danger ml-5 mb-2"></i>
+                <h4>Library dot com</h4>
+                <ul style="list-style:none;">
+                    <li><a style="text-decoration:none;" class="text-white" href="#">About Us</a></li>
+                    <li><a style="text-decoration:none;" class="text-white" href="#">Services</a></li>
+                    <li><a style="text-decoration:none;" class="text-white" href="#">Selected Work</a></li>
+                    <li><a style="text-decoration:none;" class="text-white" href="#">Get In Touch</a></li>
+                </ul>
+            </div>
+            <div class="col-xl-5">
+                <p>RECENT NEWS</p>
+                <p>Footer with solid color background and a contact form, Easily add subscribe and contact forms without any server-side integration.</p>
+                <p>Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface.</p>
+            </div>
+            <div class="col-xl-4">
+                <h4>SUBSCRIBE</h4>
+                <p>Get monthly updates and free resources.</p>
+                <div class="d-flex mb-3">
+                    <input type="email" class="form-control mr-3" placeholder="Enter email" id="email" style="max-width:130px; border-radius:20px;">
+                    <button type="submit" class="btn btn-primary px-4" style=" border-radius:20px;">Subcribes</button>
+                </div>
+                <div>
+                    <h4>CONNECT WITH US</h4>
+                    <div class="d-flex">
+                        <i class="fab fa-facebook-f fa-2x text-muted mr-3"></i>
+                        <i class="fab fa-twitter fa-2x text-muted mr-3"></i>
+                        <i class="fab fa-youtube fa-2x text-muted mr-3"></i>
+                        <i class="fab fa-instagram fa-2x text-muted mr-3"></i>
+                        <i class="fab fa-google-plus-g fa-2x text-muted mr-3"></i>
+                        <i class="fab fa-behance fa-2x text-muted mr-3"></i>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+

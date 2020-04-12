@@ -1,0 +1,272 @@
+C:\Users\votra\OneDrive\Documents\Visual Studio 2015\Projects\LiteLibrary.Admin\LiteLibrary\bin\ApplicationInsights.config
+C:\Users\votra\OneDrive\Documents\Visual Studio 2015\Projects\LiteLibrary.Admin\LiteLibrary\bin\roslyn\csc.exe
+C:\Users\votra\OneDrive\Documents\Visual Studio 2015\Projects\LiteLibrary.Admin\LiteLibrary\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\votra\OneDrive\Documents\Visual Studio 2015\Projects\LiteLibrary.Admin\LiteLibrary\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\votra\OneDrive\Documents\Visual Studio 2015\Projects\LiteLibrary.Admin\LiteLibrary\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\votra\OneDrive\Documents\Visual Studio 2015\Projects\LiteLibrary.Admin\LiteLibrary\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\votra\OneDrive\Documents\Visual Studio 2015\Projects\LiteLibrary.Admin\LiteLibrary\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\votra\OneDrive\Documents\Visual Studio 2015\Projects\LiteLibrary.Admin\LiteLibrary\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\votra\OneDrive\Documents\Visual Studio 2015\Projects\LiteLibrary.Admin\LiteLibrary\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\votra\OneDrive\Documents\Visual Studio 2015\Projects\LiteLibrary.Admin\LiteLibrary\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\votra\OneDrive\Documents\Visual Studio 2015\Projects\LiteLibrary.Admin\LiteLibrary\bin\roslyn\vbc.exe
+C:\Users\votra\OneDrive\Documents\Visual Studio 2015\Projects\LiteLibrary.Admin\LiteLibrary\bin\roslyn\VBCSCompiler.exe
+C:\Users\votra\OneDrive\Documents\Visual Studio 2015\Projects\LiteLibrary.Admin\LiteLibrary\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\votra\OneDrive\Documents\Visual Studio 2015\Projects\LiteLibrary.Admin\LiteLibrary\bin\LiteLibrary.dll.config
+C:\Users\votra\OneDrive\Documents\Visual Studio 2015\Projects\LiteLibrary.Admin\LiteLibrary\bin\LiteLibrary.dll
+C:\Users\votra\OneDrive\Documents\Visual Studio 2015\Projects\LiteLibrary.Admin\LiteLibrary\bin\LiteLibrary.pdb
+C:\Users\votra\OneDrive\Documents\Visual Studio 2015\Projects\LiteLibrary.Admin\LiteLibrary\bin\Antlr3.Runtime.dll
+C:\Users\votra\OneDrive\Documents\Visual Studio 2015\Projects\LiteLibrary.Admin\LiteLibrary\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\votra\OneDrive\Documents\Visual Studio 2015\Projects\LiteLibrary.Admin\LiteLibrary\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\votra\OneDrive\Documents\Visual Studio 2015\Projects\LiteLibrary.Admin\LiteLibrary\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\votra\OneDrive\Documents\Visual Studio 2015\Projects\LiteLibrary.Admin\LiteLibrary\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\votra\OneDrive\Documents\Visual Studio 2015\Projects\LiteLibrary.Admin\LiteLibrary\bin\Microsoft.AI.Web.dll
+C:\Users\votra\OneDrive\Documents\Visual Studio 2015\Projects\LiteLibrary.Admin\LiteLibrary\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\votra\OneDrive\Documents\Visual Studio 2015\Projects\LiteLibrary.Admin\LiteLibrary\bin\Microsoft.ApplicationInsights.dll
+C:\Users\votra\OneDrive\Documents\Visual Studio 2015\Projects\LiteLibrary.Admin\LiteLibrary\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\votra\OneDrive\Documents\Visual Studio 2015\Projects\LiteLibrary.Admin\LiteLibrary\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\votra\OneDrive\Documents\Visual Studio 2015\Projects\LiteLibrary.Admin\LiteLibrary\bin\Newtonsoft.Json.dll
+C:\Users\votra\OneDrive\Documents\Visual Studio 2015\Projects\LiteLibrary.Admin\LiteLibrary\bin\System.Web.Helpers.dll
+C:\Users\votra\OneDrive\Documents\Visual Studio 2015\Projects\LiteLibrary.Admin\LiteLibrary\bin\System.Web.Mvc.dll
+C:\Users\votra\OneDrive\Documents\Visual Studio 2015\Projects\LiteLibrary.Admin\LiteLibrary\bin\System.Web.Optimization.dll
+C:\Users\votra\OneDrive\Documents\Visual Studio 2015\Projects\LiteLibrary.Admin\LiteLibrary\bin\System.Web.Razor.dll
+C:\Users\votra\OneDrive\Documents\Visual Studio 2015\Projects\LiteLibrary.Admin\LiteLibrary\bin\System.Web.WebPages.Deployment.dll
+C:\Users\votra\OneDrive\Documents\Visual Studio 2015\Projects\LiteLibrary.Admin\LiteLibrary\bin\System.Web.WebPages.dll
+C:\Users\votra\OneDrive\Documents\Visual Studio 2015\Projects\LiteLibrary.Admin\LiteLibrary\bin\System.Web.WebPages.Razor.dll
+C:\Users\votra\OneDrive\Documents\Visual Studio 2015\Projects\LiteLibrary.Admin\LiteLibrary\bin\WebGrease.dll
+C:\Users\votra\OneDrive\Documents\Visual Studio 2015\Projects\LiteLibrary.Admin\LiteLibrary\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\votra\OneDrive\Documents\Visual Studio 2015\Projects\LiteLibrary.Admin\LiteLibrary\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\votra\OneDrive\Documents\Visual Studio 2015\Projects\LiteLibrary.Admin\LiteLibrary\bin\Microsoft.AI.Web.xml
+C:\Users\votra\OneDrive\Documents\Visual Studio 2015\Projects\LiteLibrary.Admin\LiteLibrary\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\votra\OneDrive\Documents\Visual Studio 2015\Projects\LiteLibrary.Admin\LiteLibrary\bin\Microsoft.ApplicationInsights.xml
+C:\Users\votra\OneDrive\Documents\Visual Studio 2015\Projects\LiteLibrary.Admin\LiteLibrary\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\votra\OneDrive\Documents\Visual Studio 2015\Projects\LiteLibrary.Admin\LiteLibrary\bin\System.Web.Helpers.xml
+C:\Users\votra\OneDrive\Documents\Visual Studio 2015\Projects\LiteLibrary.Admin\LiteLibrary\bin\System.Web.Mvc.xml
+C:\Users\votra\OneDrive\Documents\Visual Studio 2015\Projects\LiteLibrary.Admin\LiteLibrary\bin\System.Web.Optimization.xml
+C:\Users\votra\OneDrive\Documents\Visual Studio 2015\Projects\LiteLibrary.Admin\LiteLibrary\bin\System.Web.Razor.xml
+C:\Users\votra\OneDrive\Documents\Visual Studio 2015\Projects\LiteLibrary.Admin\LiteLibrary\bin\System.Web.WebPages.xml
+C:\Users\votra\OneDrive\Documents\Visual Studio 2015\Projects\LiteLibrary.Admin\LiteLibrary\bin\System.Web.WebPages.Deployment.xml
+C:\Users\votra\OneDrive\Documents\Visual Studio 2015\Projects\LiteLibrary.Admin\LiteLibrary\bin\System.Web.WebPages.Razor.xml
+C:\Users\votra\OneDrive\Documents\Visual Studio 2015\Projects\LiteLibrary.Admin\LiteLibrary\bin\Antlr3.Runtime.pdb
+C:\Users\votra\OneDrive\Documents\Visual Studio 2015\Projects\LiteLibrary.Admin\LiteLibrary\bin\Newtonsoft.Json.xml
+C:\Users\votra\OneDrive\Documents\Visual Studio 2015\Projects\LiteLibrary.Admin\LiteLibrary\obj\Debug\LiteLibrary.dll
+C:\Users\votra\OneDrive\Documents\Visual Studio 2015\Projects\LiteLibrary.Admin\LiteLibrary\obj\Debug\LiteLibrary.pdb
+C:\Users\votra\OneDrive\Documents\Visual Studio 2015\Projects\LiteLibrary.Admin\LiteLibrary\bin\LiteLibrary.BusinessLayers.dll
+C:\Users\votra\OneDrive\Documents\Visual Studio 2015\Projects\LiteLibrary.Admin\LiteLibrary\bin\LiteLibrary.Datalayers.dll
+C:\Users\votra\OneDrive\Documents\Visual Studio 2015\Projects\LiteLibrary.Admin\LiteLibrary\bin\LiteLibrary.Entities.dll
+C:\Users\votra\OneDrive\Documents\Visual Studio 2015\Projects\LiteLibrary.Admin\LiteLibrary\bin\LiteLibrary.BusinessLayers.pdb
+C:\Users\votra\OneDrive\Documents\Visual Studio 2015\Projects\LiteLibrary.Admin\LiteLibrary\bin\LiteLibrary.Datalayers.pdb
+C:\Users\votra\OneDrive\Documents\Visual Studio 2015\Projects\LiteLibrary.Admin\LiteLibrary\bin\LiteLibrary.Entities.pdb
+C:\Users\votra\OneDrive\Documents\Visual Studio 2015\Projects\LiteLibrary.Admin\LiteLibrary\obj\Debug\LiteLibrary.csprojAssemblyReference.cache
+C:\Users\votra\OneDrive\Documents\Visual Studio 2015\Projects\LiteLibrary.Admin\LiteLibrary\obj\Debug\LiteLibrary.csproj.CopyComplete
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\ApplicationInsights.config
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\roslyn\csc.exe
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\roslyn\System.Collections.Immutable.dll
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\roslyn\System.Reflection.Metadata.dll
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\roslyn\vbc.exe
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\roslyn\VBCSCompiler.exe
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\roslyn\VBCSCompiler.exe.config
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\LiteLibrary.dll.config
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\LiteLibrary.dll
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\LiteLibrary.pdb
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\Antlr3.Runtime.dll
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\LiteLibrary.BusinessLayers.dll
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\LiteLibrary.Datalayers.dll
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\LiteLibrary.Entities.dll
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\Microsoft.AI.Agent.Intercept.dll
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\Microsoft.AI.DependencyCollector.dll
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\Microsoft.AI.Web.dll
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\Microsoft.AI.WindowsServer.dll
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\Microsoft.ApplicationInsights.dll
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\Microsoft.Web.Infrastructure.dll
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\Newtonsoft.Json.dll
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\System.Web.Helpers.dll
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\System.Web.Mvc.dll
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\System.Web.Optimization.dll
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\System.Web.Razor.dll
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\System.Web.WebPages.Deployment.dll
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\System.Web.WebPages.dll
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\System.Web.WebPages.Razor.dll
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\WebGrease.dll
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\LiteLibrary.BusinessLayers.pdb
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\LiteLibrary.Datalayers.pdb
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\LiteLibrary.Entities.pdb
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\Microsoft.AI.DependencyCollector.xml
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\Microsoft.AI.Web.xml
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\Microsoft.AI.WindowsServer.xml
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\Microsoft.ApplicationInsights.xml
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\System.Web.Helpers.xml
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\System.Web.Mvc.xml
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\System.Web.Optimization.xml
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\System.Web.Razor.xml
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\System.Web.WebPages.xml
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\System.Web.WebPages.Deployment.xml
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\System.Web.WebPages.Razor.xml
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\Antlr3.Runtime.pdb
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\Newtonsoft.Json.xml
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\obj\Debug\LiteLibrary.csprojAssemblyReference.cache
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\obj\Debug\LiteLibrary.csproj.CopyComplete
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\obj\Debug\LiteLibrary.dll
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\obj\Debug\LiteLibrary.pdb
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\roslyn\csc.exe.config
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\roslyn\csc.rsp
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\roslyn\csi.exe
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\roslyn\csi.exe.config
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\roslyn\csi.rsp
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\roslyn\Microsoft.Managed.Core.targets
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\roslyn\System.AppContext.dll
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\roslyn\System.Console.dll
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\roslyn\System.Globalization.Calendars.dll
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\roslyn\System.IO.Compression.dll
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\roslyn\System.IO.FileSystem.dll
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\roslyn\System.Net.Http.dll
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\roslyn\System.Net.Sockets.dll
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\roslyn\System.ValueTuple.dll
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\roslyn\System.Xml.XmlDocument.dll
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\roslyn\System.Xml.XPath.dll
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\roslyn\vbc.exe.config
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\roslyn\vbc.rsp
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\Microsoft.Win32.Primitives.dll
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\netstandard.dll
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\System.AppContext.dll
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\System.Collections.Concurrent.dll
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\System.Collections.dll
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\System.Collections.NonGeneric.dll
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\System.Collections.Specialized.dll
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\System.ComponentModel.dll
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\System.ComponentModel.EventBasedAsync.dll
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\System.ComponentModel.Primitives.dll
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\System.ComponentModel.TypeConverter.dll
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\System.Console.dll
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\System.Data.Common.dll
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\System.Diagnostics.Contracts.dll
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\System.Diagnostics.Debug.dll
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\System.Diagnostics.FileVersionInfo.dll
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\System.Diagnostics.Process.dll
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\System.Diagnostics.StackTrace.dll
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\System.Diagnostics.TextWriterTraceListener.dll
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\System.Diagnostics.Tools.dll
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\System.Diagnostics.TraceSource.dll
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\System.Diagnostics.Tracing.dll
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\System.Drawing.Primitives.dll
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\System.Dynamic.Runtime.dll
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\System.Globalization.Calendars.dll
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\System.Globalization.dll
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\System.Globalization.Extensions.dll
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\System.IO.Compression.dll
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\System.IO.Compression.ZipFile.dll
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\System.IO.dll
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\System.IO.FileSystem.dll
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\System.IO.FileSystem.DriveInfo.dll
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\System.IO.FileSystem.Primitives.dll
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\System.IO.FileSystem.Watcher.dll
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\System.IO.IsolatedStorage.dll
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\System.IO.MemoryMappedFiles.dll
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\System.IO.Pipes.dll
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\System.IO.UnmanagedMemoryStream.dll
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\System.Linq.dll
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\System.Linq.Expressions.dll
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\System.Linq.Parallel.dll
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\System.Linq.Queryable.dll
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\System.Net.Http.dll
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\System.Net.NameResolution.dll
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\System.Net.NetworkInformation.dll
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\System.Net.Ping.dll
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\System.Net.Primitives.dll
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\System.Net.Requests.dll
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\System.Net.Security.dll
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\System.Net.Sockets.dll
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\System.Net.WebHeaderCollection.dll
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\System.Net.WebSockets.Client.dll
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\System.Net.WebSockets.dll
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\System.ObjectModel.dll
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\System.Reflection.dll
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\System.Reflection.Extensions.dll
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\System.Reflection.Primitives.dll
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\System.Resources.Reader.dll
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\System.Resources.ResourceManager.dll
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\System.Resources.Writer.dll
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\System.Runtime.CompilerServices.VisualC.dll
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\System.Runtime.dll
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\System.Runtime.Extensions.dll
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\System.Runtime.Handles.dll
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\System.Runtime.InteropServices.dll
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\System.Runtime.Numerics.dll
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\System.Runtime.Serialization.Formatters.dll
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\System.Runtime.Serialization.Json.dll
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\System.Runtime.Serialization.Primitives.dll
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\System.Runtime.Serialization.Xml.dll
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\System.Security.Claims.dll
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\System.Security.Cryptography.Algorithms.dll
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\System.Security.Cryptography.Csp.dll
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\System.Security.Cryptography.Encoding.dll
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\System.Security.Cryptography.Primitives.dll
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\System.Security.Cryptography.X509Certificates.dll
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\System.Security.Principal.dll
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\System.Security.SecureString.dll
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\System.Text.Encoding.dll
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\System.Text.Encoding.Extensions.dll
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\System.Text.RegularExpressions.dll
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\System.Threading.dll
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\System.Threading.Overlapped.dll
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\System.Threading.Tasks.dll
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\System.Threading.Tasks.Parallel.dll
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\System.Threading.Thread.dll
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\System.Threading.ThreadPool.dll
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\System.Threading.Timer.dll
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\System.ValueTuple.dll
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\System.Xml.ReaderWriter.dll
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\System.Xml.XDocument.dll
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\System.Xml.XmlDocument.dll
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\System.Xml.XmlSerializer.dll
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\System.Xml.XPath.dll
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\System.Xml.XPath.XDocument.dll
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\System.Buffers.dll
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\System.Diagnostics.DiagnosticSource.dll
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\System.Memory.dll
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\System.Numerics.Vectors.dll
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\Microsoft.AI.DependencyCollector.pdb
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\Microsoft.AI.PerfCounterCollector.pdb
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\Microsoft.AI.PerfCounterCollector.xml
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\Microsoft.AI.ServerTelemetryChannel.pdb
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\Microsoft.AI.Web.pdb
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\Microsoft.AI.WindowsServer.pdb
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\Microsoft.ApplicationInsights.pdb
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\System.Buffers.xml
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\System.Diagnostics.DiagnosticSource.xml
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\System.Memory.xml
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\System.Numerics.Vectors.xml
+E:\DataPC_BackUp\VisualStudio2015\Project\LiteLibrary.Admin\LiteLibrary\bin\System.Runtime.CompilerServices.Unsafe.xml

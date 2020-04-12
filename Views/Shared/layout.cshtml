@@ -1,0 +1,123 @@
+﻿
+@{
+    Layout = null;
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My WebApplication</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"> <!--cdn fontawe some-->
+   <style>
+    body {
+            margin: 0;
+            padding: 0;
+            height: 400px;
+            width:100%;
+            position:relative;
+        }
+
+       header {
+           /**/
+           background: linear-gradient(rgba(0, 0, 0,.2),rgba(0,0,0,.7)),url('../../Content/img/bannerbook.jpg') no-repeat center center/cover;
+           height: 110vh;
+           position: relative;
+           transform: translateY(-70px);
+       }
+       nav.navbar {
+            position: fixed;
+            top: 0;
+            z-index: 1;
+            opacity: 0.85;
+            width: 100%;
+        }
+   </style>
+   
+</head>
+<body>
+    <nav class="navbar navbar-expand-sm bg-dark navbar-dark ">
+        <!-- Brand -->
+        <a class="navbar-brand " href="~/Home/Index"><i class="fas fa-book-reader fa-2x text-white"></i></a>
+        <a class="text-white text-decoration-none font-weight-bold" style="font-size:35px;" href="~/Home/Index">Library <span style="font-size:15px;">dot com</span></a>
+        <!-- Links -->
+        @* <ul class="navbar-nav">
+            <!-- Dropdown -->
+            <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown">Giáo Trình</a>
+                <div class="dropdown-menu">
+                    <a class="dropdown-item" href="#">CNTT</a>
+                    <a class="dropdown-item" href="#">Tự Nhiên</a>
+                    <a class="dropdown-item" href="#">Xã Hội</a>
+                </div>
+            </li>
+            <li class="nav-item drop">
+                <a class="nav-link" href="#">Sách Văn Học Việt Nam</a>
+                <div class="down d-flex flex-column">
+                    <div><a href="#" class="text-dark">Truyện Ngắn</a></div>
+                    <div><a href="#" class="text-dark">Bút Kí</a></div>
+                    <div> <a href="#" class="text-dark">Phóng Sự</a></div>
+                </div>
+            </li>
+            <li class="nav-item drop">
+                <a class="nav-link" href="#">Sách Thiếu Nhi</a>
+            </li>
+            <li class="nav-item drop">
+                <a class="nav-link" href="#">Sách Tiểu Thuyết</a>
+            </li>
+            <li class="nav-item drop">
+                <a class="nav-link" href="#">Sách Học Tốt-Sách Giải</a>
+            </li>
+        </ul> *@
+        <ul class="navbar-nav mx-auto">
+            <li class="nav-item" style="font-size:20px;">
+                <a class="nav-link mr-3" href="#">Subject</a>
+            </li>
+            <li class="text-white my-auto">/</li>
+            <li class="nav-item mx-2" style="font-size:20px;">
+                <a class="nav-link" href="#">News Update</a>
+            </li>
+            <li class="text-white my-auto">/</li>
+            <li class="nav-item ml-3" style="font-size:20px;">
+                <a class="nav-link" href="#">Process</a>
+            </li>
+        </ul>
+            @*<div class='_form d-flex ml-auto'>
+                <input class="form-control mr-sm-2 item_form" type="text" placeholder="Search">
+                <button class="btn btn-success item_form" type="submit">Search</button>
+            </div>*@
+            <div class='_form d-flex ml-auto'>
+                <a class=" my-auto" href="~/Admin/Account/Index"><i class="fas fa-user-shield text-info fa-2x"></i></a>
+                <p class="my-auto text-muted ml-3 font-weight-bold" style="font-size:30px;" >/</p>
+                <a class="ml-3  my-auto" href="~/Admin/Account/Index"><i class="fas fa-sign-out-alt text-danger fa-2x"></i></a>
+            </div>
+</nav>
+    @RenderBody()
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js"
+            integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+            crossorigin="anonymous"></script>
+    <script>
+        $(document).ready(function () {
+
+            //$('button[type="submit"]').click(function () {
+            //    $('input[type="text"]').css('visibility', 'unset');
+            //    $('input[type="text"]').css('width', '350px');
+            //    $('input[type="text"]').css('transition', 'all 1.5s');
+            //});
+
+            //$('header').mousemove(function (e) {
+            //var moveX = (e.pageX * -1 / 165);
+            //var moveY = (e.pageY * -1 / 165);
+            //$(this).css('background-position', moveX + 'px ' + moveY + 'px');
+            //});
+        });
+
+    </script>
+</body>
+</html>
+
